@@ -12,8 +12,8 @@ zuul:
     user-service:
        serviceId: user-servcie
 
-    bank-service:
-       serviceId: bank-service
+    product-service:
+       serviceId: product-service
 
 
 server:
