@@ -10,7 +10,7 @@ zuul:
     socket-timeout-millis: 20000
   routes:
     user-service:
-       serviceId: user-servcie
+       serviceId: user-service
 
     product-service:
        serviceId: product-service
