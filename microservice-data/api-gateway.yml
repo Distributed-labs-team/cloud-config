@@ -2,7 +2,7 @@
 spring:
   cloud:
     euruka:
-      connect-string: http://registry:8761/eureka/
+      connect-string: http://registry:8761/eureka
 
 zuul:
   host:
