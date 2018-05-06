@@ -2,4 +2,4 @@
 spring:
   cloud:
     euruka:
-      connect-string: registry:8761
+      connect-string: http://registry:8761
