@@ -18,6 +18,9 @@ zuul:
 
     product-service:
        serviceId: product-service
+       
+    statistic-service:
+       serviceId: statistic-service
 
 
 server:
